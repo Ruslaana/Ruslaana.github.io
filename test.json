@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "question": "What is JSON?",
+    "question": "What does JSON mean?",
     "options": [
       { "text": "Java Script on nature", "isCorrect": false },
       { "text": "Java Script object notation", "isCorrect": true },
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "question": "What is Node.js?",
+    "question": "What does Node.js mean?",
     "options": [
       { "text": "is a native object", "isCorrect": false },
       { "text": "is an open source server environment", "isCorrect": true },
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "question": "What is Database?",
+    "question": "What does Database mean?",
     "options": [
       { "text": "is an electronically stored, systematic collection of data", "isCorrect": true },
       { "text": "is a programing language", "isCorrect": false },
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "question": "What is CSS?",
+    "question": "What does CSS mean?",
     "options": [
       { "text": "Canadian Style Sheets", "isCorrect": false },
       { "text": "Cascading Style Sheeps", "isCorrect": false },
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "question": "What is React?",
+    "question": "What does React mean?",
     "options": [
       { "text": "is a programing language", "isCorrect": false },
       { "text": "is a reactive app", "isCorrect": false },
