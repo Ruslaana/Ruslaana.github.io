@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML mean?",
+    "options": [
+      { "text": "Hyper Text Markup Language", "isCorrect": true },
+      { "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+      { "text": "Home Tool Markup Language", "isCorrect": false },
+      { "text": "High Text Markup Language", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is JSON?",
+    "options": [
+      { "text": "Java Script on nature", "isCorrect": false },
+      { "text": "Java Script object notation", "isCorrect": true },
+      { "text": "Java super object notation", "isCorrect": false },
+      { "text": "Jason Statham on Nissan", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is Node.js?",
+    "options": [
+      { "text": "is a native object", "isCorrect": false },
+      { "text": "is an open source server environment", "isCorrect": true },
+      { "text": "is a external library", "isCorrect": false },
+      { "text": "is a internal library", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is Database?",
+    "options": [
+      { "text": "is an electronically stored, systematic collection of data", "isCorrect": true },
+      { "text": "is a programing language", "isCorrect": false },
+      { "text": "is the library for web and native user interfaces", "isCorrect": false },
+      { "text": "is an open source server environment", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is CSS?",
+    "options": [
+      { "text": "Canadian Style Sheets", "isCorrect": false },
+      { "text": "Cascading Style Sheeps", "isCorrect": false },
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Cascading Syper Sheets", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is React?",
+    "options": [
+      { "text": "is a programing language", "isCorrect": false },
+      { "text": "is a reactive app", "isCorrect": false },
+      { "text": "is a super native library", "isCorrect": false },
+      { "text": "is the library for web and native user interfaces", "isCorrect": true }
+    ]
+  }
+]
